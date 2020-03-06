@@ -2,4 +2,7 @@ Code applying counterfactual learning for obervational mobile digital interventi
 
 TO DO:
 
-Update with the doubly-robust estimator
+Update with the doubly-robust estimator.
+
+Note:
+Complete code will be available when paper appear online!
