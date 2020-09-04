@@ -1,4 +1,4 @@
-Code applying counterfactual learning for obervational mobile digital interventions data.
+Code applying counterfactual learning for observational mobile digital interventions data.
 
 TO DO:
 
